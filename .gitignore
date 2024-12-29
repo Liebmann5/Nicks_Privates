@@ -1,3 +1,10 @@
 .astro
 node_modules
 dist
+
+node_modules/
+*.log
+dist/
+.cache/
+*.env
+*.DS_Store
